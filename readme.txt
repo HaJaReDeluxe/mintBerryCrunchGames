@@ -19,6 +19,7 @@ Hardware
 		Design
 		Grafik
 			Hohe Grafik anforderung
+			Test Majira
 		Animation
 		Website / Marketing
 	VCS-Server

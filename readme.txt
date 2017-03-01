@@ -1,6 +1,6 @@
 Spielestudio: mintBerryCrunchGames
 
-Ausrüstung eines Startups mit einer Infrastruktur für Entwicklung, Test und Webauftritt.
+AusrÃ¼stung eines Startups mit einer Infrastruktur fÃ¼r Entwicklung, Test und Webauftritt.
 
 Start-Up
 
@@ -14,10 +14,11 @@ Spiel
 		Lokal (Multiplayer)
 
 Hardware
-	Arbeitsplätze
+	ArbeitsplÃ¤tze
 		Entwicklung
 		Design
 		Grafik
+			Hohe Grafik anforderung
 		Animation
 		Website / Marketing
 	VCS-Server
@@ -37,4 +38,4 @@ Software
 
 	
 Absprache
-Schreiben des Textes mit LaTeX (evtl. auch die Präsentation).
+Schreiben des Textes mit LaTeX (evtl. auch die PrÃ¤sentation).
